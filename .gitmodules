@@ -1,4 +1,0 @@
-[submodule "LonLatToUnityPack"]
-	path = LonLatToUnityPack
-	url = https://github.com/atgczcl/LonLatToUnityPack.git
-	branch = upm
